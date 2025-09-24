@@ -12,7 +12,8 @@ int main()
 {
     int n;
     cin>>n;
-    printSquareSum(n);
+    cout<<printSquareSum(n);
     return 0;
 
 }
+
