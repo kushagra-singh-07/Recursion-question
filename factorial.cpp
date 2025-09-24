@@ -11,7 +11,8 @@ int main()
 {
     int n;
     cin>>n;
-    fac(n);
+    cout<<fac(n)<<endl;
     return 0;
 }
+
 
